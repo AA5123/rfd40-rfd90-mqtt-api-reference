@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrfid_reader_api_docs=globalThis.webpackChunkrfid_reader_api_docs||[]).push([[5742],{27093(a){a.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
